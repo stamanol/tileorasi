@@ -1,0 +1,57 @@
+#EXTM3U url-tvg="https://github.com/1nikolas/EPG-GRCY/releases/download/EPG/EPG-GRCY.xml.gz"
+
+#EXTINF:-1 group-title="" tvg-name="ERT 1" tvg-logo="https://i.imgur.com/Dd3HM0I.png",ERT1 HD
+https://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1medium.m3u8
+
+#EXTINF:-1 group-title="" tvg-name="ERT 2" tvg-logo="https://i.imgur.com/cpzgu5L.png",ERT2 HD
+https://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2medium.m3u8
+
+#EXTINF:-1 group-title="" tvg-name="ERT 3" tvg-logo="https://i.imgur.com/GJjfeY8.png",ERT3 HD
+https://ert-live-ert3.siliconweb.com/live/smil:ert3-live.smil/chunklist_b1960000_sleng.m3u8
+
+#EXTINF:-1 group-title="" tvg-name="ERT WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/ERTworld2020.png",ERT WORLD
+https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_worldmedium.m3u8
+
+#EXTINF:-1 group-title="" tvg-name="ert.ertsports.gr" tvg-logo="https://i.imgur.com/SgiGEUK.png",ERT SPORTS 
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sportshigh.m3u8
+
+#EXTINF:-1 group-title="" tvg-name="" tvg-logo="https://vectorlogoseek.com/wp-content/uploads/2019/09/euronews-vector-logo.png",Euronews
+https://www.youtube.com/watch?v=-UJlcdni8cM&feature=emb_logo
+
+#EXTINF:-1 group-title="" tvg-name="digea.alpha.gr" tvg-logo="http://greektv.pbworks.com/f/ALPHA.png",ALPHA HD
+https://alphalive-i.akamaihd.net/hls/live/682300/live/high/prog_index.m3u8
+
+#EXTINF:-1 group-title="" tvg-name="digea.skai.gr" tvg-logo="https://i.imgur.com/xokA84y.png",SKAI HD 
+https://skai-live-back.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
+
+#EXTINF:-1 group-title="" tvg-name="digea.star.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/8/8f/Star_Channel_logo.svg/1024px-Star_Channel_logo.svg.png”,STAR TV HD
+https://starlive4-llold-dav1.siliconweb.com/media/star1/star1lowhd.m3u8
+
+#EXTINF:-1 group-title="" tvg-name="digea.ant1.gr" tvg-logo="http://greektv.pbworks.com/f/ANT1.png",ANT1 HD
+https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
+
+#EXTINF:-1 group-title="" tvg-name="digea.mega.gr" tvg-logo="https://i.imgur.com/yyp6tS5.png",MEGA HD
+https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/chunklist_b1728000.m3u8
+
+#EXTINF:-1 group-title="" tvg-name="digea.action24.gr" tvg-logo="https://action24.gr/wp-content/uploads/2019/12/ACTION-24-LOGO-TRANSPARENT-NEW.png",ACTION24
+https://stream-09.ix7.dailymotion.com/sec(045Msia06uu92p_oLsoybDWwpUy776u8eES9hTFvInk)/dm/3/x61fbhs/s/live-2.m3u8
+
+#EXTINF:-1 group-title="" tvg-name="OPEN BEYOND" tvg-logo="https://i.imgur.com/c9hgL1c.jpg",OPEN TV HD
+https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/kcmblc8k/2728/chunklist.m3u8
+
+#EXTINF:-1 group-title="" tvg-logo="https://i.imgur.com/FKJ6N9p.png",GREEK CINEMA
+ 
+
+#EXTINF:-1 group-title="" tvg-name="digea.channel9.gr" tvg-logo="https://i.imgur.com/H6s5t1z.jpg",CHANNEL 9 
+
+#EXTINF:-1 group-title="" tvg-name="ONE Channel" tvg-logo="https://i.imgur.com/yHiFVKK.jpg",ONE TV HD
+https://streaming.onetv.gr/show/onetv_hd720/index.m3u8
+
+#EXTINF:-1 group-title="" tvg-name="AE TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020096/E.png",EPSILON TV
+https://edge1.mystream.gr/video417338/live/playlist.m3u8
+
+#EXTINF:-1 group-title="" tvg-name="digea.bluesky.gr" tvg-logo="http://greektv.pbworks.com/f/BLUE_SKY.png",BLUE SKY 
+https://www.youtube.com/watch?v=RYmwBFDv6Gk&feature=emb_logo
+
+#EXTINF:-1 group-title="" tvg-name="dives.kontra.gr" tvg-logo="http://live24.gr/resrc/styles/custom-popups/kontrachannel/newlogokontra.png",KONTRA TV
+https://kontralive.siliconweb.com/live/kontratv/chunklist.m3u8
