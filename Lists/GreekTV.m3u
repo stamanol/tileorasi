@@ -22,7 +22,7 @@ https://www.youtube.com/watch?v=-UJlcdni8cM&feature=emb_logo
 https://alphalive-i.akamaihd.net/hls/live/682300/live/high/prog_index.m3u8
 
 #EXTINF:-1 group-title="" tvg-name="digea.skai.gr" tvg-logo="https://i.imgur.com/xokA84y.png",SKAI HD 
-https://skai-live-back.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
+https://skai-live.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
 
 #EXTINF:-1 group-title="" tvg-name="digea.star.gr" tvg-logo="https://media.sportstats.gr/sportstats_global/images/basket/teams/team-0044.png",STAR TV HD
 https://starlive4-llold-dav1.siliconweb.com/media/star1/star1lowhd.m3u8
@@ -34,7 +34,7 @@ https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/chunklist_b1728000.m3u8
 
 #EXTINF:-1 group-title="" tvg-name="digea.action24.gr" tvg-logo="https://action24.gr/wp-content/uploads/2019/12/ACTION-24-LOGO-TRANSPARENT-NEW.png",ACTION24
-https://stream-08.ix7.dailymotion.com/sec(045Msia06uu92p_oLsoybLBAg6a65T5DBPsY7B6YNzo)/dm/3/x61fbhs/s/live-2.m3u8
+https://stream-10.dc3.dailymotion.com/sec(045Msia06uu92p_oLsoybNNoVrFNsj8zhGYymKGa4Z4)/dm/3/x61fbhs/s/live-2.m3u8
 
 #EXTINF:-1 group-title="" tvg-name="OPEN BEYOND" tvg-logo="https://i.imgur.com/c9hgL1c.jpg",OPEN TV HD
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/kcmblc8k/2728/chunklist.m3u8
