@@ -16,7 +16,7 @@ https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_worldmedium.m3u8
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sportshigh.m3u8
 
 #EXTINF:-1 group-title="" tvg-name="" tvg-logo="https://vectorlogoseek.com/wp-content/uploads/2019/09/euronews-vector-logo.png",Euronews
-https://www.youtube.com/embed/-UJlcdni8cM?autoplay=1&enablejsapi=1&showinfo=0&mute=1&embed_config=%7B%22primaryThemeColor%22%3A%22%23003865%22%2C%22autonavRelatedVideos%22%3Atrue%2C%22adsConfig%22%3A%7B%22adTagParameters%22%3A%7B%22iu%22%3A%22%2F6458%2Feuronews_new%2Flive%22%2C%22cust_params%22%3A%22player_type%3Dpfp%26lng%3Del%26page%3Dlive%26%22%7D%2C%22nonPersonalizedAd%22%3Afalse%2C%22disableAds%22%3Afalse%7D%7D&origin=https%3A%2F%2Fgr.euronews.com&widgetid=1
+https://youtu.be/-UJlcdni8cM
 
 #EXTINF:-1 group-title="" tvg-name="digea.alpha.gr" tvg-logo="http://greektv.pbworks.com/f/ALPHA.png",ALPHA HD
 https://alphalive-i.akamaihd.net/hls/live/682300/live/high/prog_index.m3u8
